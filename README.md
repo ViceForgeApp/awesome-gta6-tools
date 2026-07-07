@@ -45,6 +45,7 @@
 
 - [ViceForge Trends](https://viceforge.app/trends) — AI-powered trend radar tracking YouTube, TikTok, Reddit, and Twitter for GTA 6 content.
 - [GTA 6 Countdown](https://gta6countdown.com) — Countdown timer to launch day.
+- [nexplained](https://nexplained.com/games/gta-6/) — GTA 6 lore and news explainers that break down every official reveal, delay, and open question.
 
 ## AI Tools
 
