@@ -9,6 +9,7 @@
 ## Contents
 
 - [All-in-One Platforms](#all-in-one-platforms)
+- [Launch Preparation & Calculators](#launch-preparation--calculators)
 - [Clip & Video Editors](#clip--video-editors)
 - [Interactive Maps](#interactive-maps)
 - [Community & Social](#community--social)
@@ -22,6 +23,10 @@
 ## All-in-One Platforms
 
 - [ViceForge](https://viceforge.app) — AI-powered gaming platform with 11 modules: clip maker, interactive map, AI companion, trend radar, squad finder, RP servers, and more. Free beta live now.
+
+## Launch Preparation & Calculators
+
+- [LaunchReady Gaming](https://launchready-gaming.philipairlind.chatgpt.site/tools/) — free, independent GTA VI launch-prep tools for release times, estimated download duration, console storage, and readiness checklists. No account required.
 
 ## Clip & Video Editors
 
