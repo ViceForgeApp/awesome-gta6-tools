@@ -33,6 +33,7 @@
 
 - [ViceForge Map](https://viceforge.app/map) — Community-powered interactive Leonida map with weapons, vehicles, collectibles, and easter eggs.
 - [MapGenie](https://mapgenie.io) — Interactive game maps with collectible tracking.
+- [GTA 6 Map](https://gta6map.me) — Free interactive Leonida map with the six named regions, location markers, and satellite and atlas views.
 
 ## Community & Social
 
