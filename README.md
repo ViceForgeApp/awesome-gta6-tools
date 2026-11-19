@@ -11,6 +11,7 @@
 - [All-in-One Platforms](#all-in-one-platforms)
 - [Clip & Video Editors](#clip--video-editors)
 - [Interactive Maps](#interactive-maps)
+- [Story Mode Guides](#story-mode-guides)
 - [Community & Social](#community--social)
 - [News & Trends](#news--trends)
 - [AI Tools](#ai-tools)
@@ -33,6 +34,10 @@
 
 - [ViceForge Map](https://viceforge.app/map) — Community-powered interactive Leonida map with weapons, vehicles, collectibles, and easter eggs.
 - [MapGenie](https://mapgenie.io) — Interactive game maps with collectible tracking.
+
+## Story Mode Guides
+
+- [MandyLucia](https://mandylucia.com/) — Independent GTA VI story-mode guides to money-making activities, chapter unlocks, and reported payouts.
 
 ## Community & Social
 
