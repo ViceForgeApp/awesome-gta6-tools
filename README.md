@@ -15,6 +15,7 @@
 - [News & Trends](#news--trends)
 - [AI Tools](#ai-tools)
 - [Roleplay (RP)](#roleplay-rp)
+- [PC Compatibility](#pc-compatibility)
 - [Official Resources](#official-resources)
 
 ---
@@ -55,6 +56,10 @@
 
 - [ViceForge RP Servers](https://viceforge.app/rp-servers) — RP server directory with full management dashboard and Discord bot integration.
 - [FiveM](https://fivem.net) — GTA V modification framework for multiplayer servers.
+
+## PC Compatibility
+
+- [Can I Run Leonida](https://canirunleonida.com/) — Independent prerequisite checklist for the experimental Leonida project, covering GPU families, Vulkan support and disk workspace. Does not predict FPS or guarantee playable gameplay.
 
 ## Official Resources
 
