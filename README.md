@@ -32,6 +32,7 @@
 ## Interactive Maps
 
 - [ViceForge Map](https://viceforge.app/map) — Community-powered interactive Leonida map with weapons, vehicles, collectibles, and easter eggs.
+- [ViceHints](https://vicehints.xyz) — Verified-only GTA 6 companion app with interactive Leonida map, cheat codes, and launch-day tips; official iOS companion site.
 - [MapGenie](https://mapgenie.io) — Interactive game maps with collectible tracking.
 
 ## Community & Social
