@@ -21,6 +21,8 @@
 
 ## All-in-One Platforms
 
+- [ViceHints](https://vicehints.xyz/) — Free unofficial GTA 6 companion with two-source verified cheats, an original interactive Leonida map, tips and source-linked news on iOS and the web.
+
 - [ViceForge](https://viceforge.app) — AI-powered gaming platform with 11 modules: clip maker, interactive map, AI companion, trend radar, squad finder, RP servers, and more. Free beta live now.
 
 ## Clip & Video Editors
